@@ -1,0 +1,18 @@
+body{
+    margin: 0;
+}
+#navbar{
+    display: flex;
+    justify-content: space-between;
+    background-color: white;
+    margin: 0;
+}
+#logo img{
+    padding: 10px;
+    width: 100px;
+    height: 100px;
+}
+#menu img{
+    padding-top: 25px;
+    height: 70px;
+}
